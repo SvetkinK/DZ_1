@@ -16,9 +16,9 @@ int f = 5;
 int g = 78;
 
 int max1 = d;
-if (d > max) max = d;
-if (f > max) max = f;
-if (g > max) max = g;
+if (d > max1) max1 = d;
+if (f > max1) max1 = f;
+if (g > max1) max1 = g;
 
 Console.Write("max = ");
 Console.WriteLine(max1);
