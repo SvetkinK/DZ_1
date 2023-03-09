@@ -1,0 +1,15 @@
+F:\HomeWork1_C#\Task2_MaxFrom3\bin\Debug\net6.0\Task2_MaxFrom3.exe
+F:\HomeWork1_C#\Task2_MaxFrom3\bin\Debug\net6.0\Task2_MaxFrom3.deps.json
+F:\HomeWork1_C#\Task2_MaxFrom3\bin\Debug\net6.0\Task2_MaxFrom3.runtimeconfig.json
+F:\HomeWork1_C#\Task2_MaxFrom3\bin\Debug\net6.0\Task2_MaxFrom3.dll
+F:\HomeWork1_C#\Task2_MaxFrom3\bin\Debug\net6.0\Task2_MaxFrom3.pdb
+F:\HomeWork1_C#\Task2_MaxFrom3\obj\Debug\net6.0\Task2_MaxFrom3.csproj.AssemblyReference.cache
+F:\HomeWork1_C#\Task2_MaxFrom3\obj\Debug\net6.0\Task2_MaxFrom3.GeneratedMSBuildEditorConfig.editorconfig
+F:\HomeWork1_C#\Task2_MaxFrom3\obj\Debug\net6.0\Task2_MaxFrom3.AssemblyInfoInputs.cache
+F:\HomeWork1_C#\Task2_MaxFrom3\obj\Debug\net6.0\Task2_MaxFrom3.AssemblyInfo.cs
+F:\HomeWork1_C#\Task2_MaxFrom3\obj\Debug\net6.0\Task2_MaxFrom3.csproj.CoreCompileInputs.cache
+F:\HomeWork1_C#\Task2_MaxFrom3\obj\Debug\net6.0\Task2_MaxFrom3.dll
+F:\HomeWork1_C#\Task2_MaxFrom3\obj\Debug\net6.0\refint\Task2_MaxFrom3.dll
+F:\HomeWork1_C#\Task2_MaxFrom3\obj\Debug\net6.0\Task2_MaxFrom3.pdb
+F:\HomeWork1_C#\Task2_MaxFrom3\obj\Debug\net6.0\Task2_MaxFrom3.genruntimeconfig.cache
+F:\HomeWork1_C#\Task2_MaxFrom3\obj\Debug\net6.0\ref\Task2_MaxFrom3.dll
