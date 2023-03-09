@@ -22,11 +22,11 @@ else
   Console.WriteLine(" - нет");
 }
 
-int c=7;
-if(c%2==0)
+int c = 7;
+if (c % 2 == 0)
 {
-Console.Write(c);
-Console.WriteLine(" - да");
+  Console.Write(c);
+  Console.WriteLine(" - да");
 }
 else
 {
